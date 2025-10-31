@@ -4,7 +4,7 @@ My name is **Tim**, I am a **sociologist** and **data enthusiast**.<br>
 I publish my projects and my learning progress here.
 <br>
 
-Me llamo Tim, soy sociólogo y entusiasta de los datos.
+Me llamo Tim, soy sociólogo y entusiasta de los datos. <br>
 Aquí publico mis proyectos y mis progresos en el aprendizaje. 
 <br>
 <br>
