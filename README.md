@@ -1,9 +1,11 @@
 # This is me👋
 
-My name is **Tim**, I am a **sociologist** and **data enthusiast**.
+My name is **Tim**, I am a **sociologist** and **data enthusiast**.<br>
 I publish my projects and my learning progress here.
 <br>
-Publico mis proyectos y mis progresos de aprendizaje aquí.
+
+Me llamo Tim, soy sociólogo y entusiasta de los datos.
+Aquí publico mis proyectos y mis progresos en el aprendizaje. 
 <br>
 <br>
 ### Here are the my projects:
