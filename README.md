@@ -19,7 +19,7 @@ _Python/SQL_
 
 [**What do argentinian students think about Milei?**](https://github.com/timleiler/What-do-Argentinian-students-think-about-Milei-)
 
-_Python_
+_Python/Jupyter Notebook_
 <br>
 
 As part of my master studies I studied one semester abroad in Argentina. In preparation for my master's thesis, I surveyed 300 students with a questionnaire from Argentina's three largest universities.
