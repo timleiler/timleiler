@@ -11,8 +11,19 @@ Aquí publico mis proyectos y mis progresos en el aprendizaje.
 ### Here are the my projects:
 <br>
 
-[**A SQL Learning Project**](https://github.com/timleiler/SQL1_Repository)
+[**Stock-market-analysis**](https://github.com/timleiler/Stock-market-analysis)
 
+_Python/web scraping_
+<br>
+<br>
+In this project, I use Python to web scrape various sources in order to perform a stock market analysis.
+
+<br>
+<br>
+
+[**A SQL Learning Project**](https://github.com/timleiler/SQL1_Repository)
+<br>
+<br>
 _Python/SQL_
 <br>
 <br>
