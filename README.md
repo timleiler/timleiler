@@ -13,7 +13,7 @@ Aquí publico mis proyectos y mis progresos en el aprendizaje.
 
 [**Stock-market-analysis**](https://github.com/timleiler/Stock-market-analysis)
 
-_Python/web scraping_
+_Python/web scraping/Jupyter Notebook_
 <br>
 <br>
 In this project, I use Python to web scrape various sources in order to perform a stock market analysis.
