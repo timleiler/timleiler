@@ -11,6 +11,16 @@ Aquí publico mis proyectos y mis progresos en el aprendizaje.
 ### Here are the my projects:
 <br>
 
+[**Business Analysis Project**](https://github.com/timleiler/Business-Analysis)
+
+_Python/Jupyter Notebook/pandas/matplotlib/numpy_
+<br>
+<br>
+I use a dataset provide by mavenanalytics to analyse and illustrate a business-analysis. 
+
+<br>
+<br>
+
 [**Stock-market-analysis**](https://github.com/timleiler/Stock-market-analysis)
 
 _Python/web scraping/Jupyter Notebook_
