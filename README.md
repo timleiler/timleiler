@@ -31,6 +31,15 @@ In this project, I use Python to web scrape various sources in order to perform 
 <br>
 <br>
 
+[**Data Visualization Test**](https://github.com/timleiler/DataVisualization/tree/main)
+
+_Python/dash/plotly_
+<br>
+<br>
+As part of my IBM Course Data Analytics I did the class Data Visualization with Python. The material presented here was part of the final exam, and I am presenting it to you here.
+<br>
+<br>
+
 [**A SQL Learning Project**](https://github.com/timleiler/SQL1_Repository)
 <br>
 <br>
