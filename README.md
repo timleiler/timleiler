@@ -21,6 +21,15 @@ I use a dataset provide by mavenanalytics to analyse and illustrate a business-a
 <br>
 <br>
 
+[**Capstone Project**](https://github.com/timleiler/Capstone_Project)
+
+_Python/Jupyter Notebook/API/webscraping/visualization/Data wrangling_
+<br>
+<br>
+This is the final part of my IBM Data Analysis Course and I present to you my final learnings.
+<br>
+<br>
+
 [**Stock-market-analysis**](https://github.com/timleiler/Stock-market-analysis)
 
 _Python/web scraping/Jupyter Notebook_
