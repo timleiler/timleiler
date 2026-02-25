@@ -23,7 +23,7 @@ I use a dataset provide by mavenanalytics to analyse and illustrate a business-a
 
 [**Capstone Project**](https://github.com/timleiler/Capstone_Project)
 
-_Python/Jupyter Notebook/API/webscraping/visualization/Data wrangling_
+_Python/Jupyter Notebook/API/webscraping/visualization/Data wrangling/SQL_
 <br>
 <br>
 This is the final part of my IBM Data Analysis Course and I present to you my final learnings.
