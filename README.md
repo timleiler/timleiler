@@ -11,6 +11,26 @@ Aquí publico mis proyectos y mis progresos en el aprendizaje.
 ### Here are the my projects:
 <br>
 
+[**Profit and Loss Analysis (SQL Project)**](https://github.com/timleiler/SQL1_Repository)
+<br>
+<br>
+_Python/SQL_
+<br>
+<br>
+In this project, I show off my SQL skills and carrying out a P&L analysis
+<br>
+<br>
+
+
+[**Capstone Project**](https://github.com/timleiler/Capstone_Project)
+
+_Python/Jupyter Notebook/API/webscraping/visualization/Data wrangling/SQL_
+<br>
+<br>
+This is the final part of my IBM Data Analysis Course and I present to you my final learnings.
+<br>
+<br>
+
 [**Business Analysis Project**](https://github.com/timleiler/Business-Analysis)
 
 _Python/Jupyter Notebook/pandas/matplotlib/numpy_
@@ -21,14 +41,6 @@ I use a dataset provide by mavenanalytics to analyse and illustrate a business-a
 <br>
 <br>
 
-[**Capstone Project**](https://github.com/timleiler/Capstone_Project)
-
-_Python/Jupyter Notebook/API/webscraping/visualization/Data wrangling/SQL_
-<br>
-<br>
-This is the final part of my IBM Data Analysis Course and I present to you my final learnings.
-<br>
-<br>
 
 [**Stock-market-analysis**](https://github.com/timleiler/Stock-market-analysis)
 
@@ -49,12 +61,6 @@ As part of my IBM Course Data Analytics I did the class Data Visualization with 
 <br>
 <br>
 
-[**A SQL Learning Project**](https://github.com/timleiler/SQL1_Repository)
-<br>
-<br>
-_Python/SQL_
-<br>
-<br>
 
 [**What do argentinian students think about Milei?**](https://github.com/timleiler/What-do-Argentinian-students-think-about-Milei-)
 
