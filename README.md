@@ -31,12 +31,12 @@ This is the final part of my IBM Data Analysis Course and I present to you my fi
 <br>
 <br>
 
-[**Business Analysis Project**](https://github.com/timleiler/Business-Analysis)
+[**Sales Analysis Project**](https://github.com/timleiler/Business-Analysis)
 
 _Python/Jupyter Notebook/pandas/matplotlib/numpy_
 <br>
 <br>
-I use a dataset provide by mavenanalytics to analyse and illustrate a business-analysis. 
+I use a dataset provide by mavenanalytics to analyse and illustrate a sales-analysis. 
 
 <br>
 <br>
