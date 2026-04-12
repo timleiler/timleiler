@@ -72,12 +72,7 @@ Here are some of the results.
 <br>
 <br>
 <br>
-[**A practice repository**](https://github.com/timleiler/Practice_repository)
 
-_Python_
-<br>
-<br>
-<br>
 ### LinkedIN
 
 Here a link to my [LinkedIN Profile](https://www.linkedin.com/in/tim-leiler-51b01b241/)
