@@ -3,17 +3,23 @@
 My name is **Tim**, I am a **sociologist** and **data enthusiast**.<br>
 I publish my projects and my learning progress here.
 <br>
-
-Me llamo Tim, soy sociólogo y entusiasta de los datos. <br>
-Aquí publico mis proyectos y mis progresos en el aprendizaje. 
-<br>
-<br>
-### Here are the my projects:
 <br>
 
-[**Profit and Loss Analysis (SQL Project)**](https://github.com/timleiler/SQL1_Repository)
+Here a link to my [LinkedIN Profile](https://www.linkedin.com/in/tim-leiler-51b01b241/)
+
+# Here are the my projects:
+
+### [**Sales Analysis Project**](https://github.com/timleiler/Business-Analysis)
+
+_Python/Jupyter Notebook/pandas/matplotlib/numpy_
 <br>
 <br>
+I use a dataset provide by mavenanalytics to analyse and illustrate a Sales Analysis. 
+<br>
+<br>
+
+### [**Profit and Loss Analysis (SQL Project)**](https://github.com/timleiler/SQL1_Repository)
+
 _Python/SQL_
 <br>
 <br>
@@ -22,7 +28,7 @@ In this project, I show off my SQL skills and carrying out a P&L analysis
 <br>
 
 
-[**Capstone Project**](https://github.com/timleiler/Capstone_Project)
+### [**Capstone Project**](https://github.com/timleiler/Capstone_Project)
 
 _Python/Jupyter Notebook/API/webscraping/visualization/Data wrangling/SQL_
 <br>
@@ -30,14 +36,6 @@ _Python/Jupyter Notebook/API/webscraping/visualization/Data wrangling/SQL_
 This is the final part of my IBM Data Analysis Course and I present to you my final learnings.
 <br>
 <br>
-
-[**Sales Analysis Project**](https://github.com/timleiler/Business-Analysis)
-
-_Python/Jupyter Notebook/pandas/matplotlib/numpy_
-<br>
-<br>
-I use a dataset provide by mavenanalytics to analyse and illustrate a sales-analysis. 
-
 <br>
 <br>
 
