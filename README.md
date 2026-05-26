@@ -9,7 +9,7 @@ Here a link to my [LinkedIN Profile](https://www.linkedin.com/in/tim-leiler-51b0
 
 # Here are the my projects:
 
-### [**HR-Analysis/Automated Workflow**](https://github.com/timleiler/HR-Analysis)
+### [**HR-Analysis/Automated Workflow Project**](https://github.com/timleiler/HR-Analysis)
 
 _Python/Jupyter Notebook/Automated Workflow/Quality Gates_
 <br>
