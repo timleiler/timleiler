@@ -9,6 +9,15 @@ Here a link to my [LinkedIN Profile](https://www.linkedin.com/in/tim-leiler-51b0
 
 # Here are the my projects:
 
+### [**HR-Analysis/Automated Workflow**](https://github.com/timleiler/HR-Analysis)
+
+_Python/Jupyter Notebook/Automated Workflow/Quality Gates_
+<br>
+<br>
+I present an end-to-end HR data analysis project showcasing automated workflows with GitHub Actions, data quality gates, and direct actions following the analysis
+<br>
+<br>
+
 ### [**Sales Analysis Project**](https://github.com/timleiler/Business-Analysis)
 
 _Python/Jupyter Notebook/pandas/matplotlib/numpy_
