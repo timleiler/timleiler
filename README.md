@@ -9,6 +9,18 @@ Here a link to my [LinkedIN Profile](https://www.linkedin.com/in/tim-leiler-51b0
 
 # Here are the my projects:
 
+
+### [**Case Study AI-Agent Multiposting**](https://github.com/timleiler/Case-Study-AI-Agent-Multiposting)
+
+_AI Agents/CrewAI/Pythons_
+<br>
+<br>
+I created an automated workflow that uses AI Agents to initiate contact with potential 
+candidates for open positions.
+<br>
+<br>
+
+
 ### [**HR-Analysis/Automated Workflow Project**](https://github.com/timleiler/HR-Analysis)
 
 _Python/Jupyter Notebook/Automated Workflow/Quality Gates_
